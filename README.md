@@ -1,4 +1,4 @@
-# Javascript Promices | Koseksi 
+# Javascript Promices | MRYENAGANDULA 
 
 ### Promices In Detail
 - Promices are mostly we are using in async calls. 
