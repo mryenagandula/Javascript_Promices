@@ -1,4 +1,4 @@
-# Javascript Promices | MRYENAGANDULA 
+# Javascript Promices |  Mr Yenagandula
 
 ### Promices In Detail
 - Promices are mostly we are using in async calls. 
